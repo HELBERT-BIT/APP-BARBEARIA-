@@ -1,2 +1,20 @@
-# APP-BARBEARIA-
-Aplicativo para o barbeiro e seus clientes, onde os clientes fazem agendamento, veem os serviço e avisos e o barbeiro Dono é o Admin que consegue ver todo seu app e analisar para ver os agendamentos, pagamentos e colocar avisos e etc sobre sua barbearia
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/db4084ab-d957-4c72-9700-22c3a07a2b32
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
